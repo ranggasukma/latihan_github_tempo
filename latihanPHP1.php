@@ -1,4 +1,4 @@
-
+<!-- Contoh Program php 1 -->
 <?php
 $a = "5";
 $b = 5;
